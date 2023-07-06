@@ -1,4 +1,4 @@
-# <p align="center" style="margin-top: 0px;"> The Tiny Shop 🏚️
+# <p align="center" style="margin-top: 0px;">  **`SQL Project Portfolio Tutorial`** 🏚️
 ## <p align="center"> Data Processing
 
  ```sql
